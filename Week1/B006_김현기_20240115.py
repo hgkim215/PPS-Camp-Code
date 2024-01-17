@@ -20,6 +20,7 @@ Root Node나 다른 임의 Node에서 다음 Branch로 넘어가기 전, 해당�
     스택, 재귀 (주로 재귀로 구현)
 
 - BFS 개념
+참고: https://heytech.tistory.com/56 
 그림: https://developer-mac.tistory.com/64
 Root Node나 다른 임의 Node에서 Branch 상관없이 인접한 Node를 먼저 탐색하는 방법이다.
   - 시간 복잡도
